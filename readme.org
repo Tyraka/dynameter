@@ -65,8 +65,8 @@ void loop() {
 //=============================================================================================
  #+END_SRC
 
-** [[https://circuits4you.com/wp-content/uploads/2016/11/hx711_datasheet_english.pdf][Datasheet
-]]
+** Datasheet
+[[https://circuits4you.com/wp-content/uploads/2016/11/hx711_datasheet_english.pdf][link]]
 ** Load cell wireing
 | HX711 | Load cell |
 |-------+-----------|
