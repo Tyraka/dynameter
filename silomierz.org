@@ -64,5 +64,15 @@ void loop() {
 }
 //=============================================================================================
  #+END_SRC
- [[https://circuits4you.com/wp-content/uploads/2016/11/hx711_datasheet_english.pdf][Datasheet
+
+** [[https://circuits4you.com/wp-content/uploads/2016/11/hx711_datasheet_english.pdf][Datasheet
 ]]
+** Load cell wireing
+| HX711 | Load cell |
+|-------+-----------|
+| E+    | white     |
+| E-    | red       |
+| S+    | black     |
+| S-    | green     |
+
+
