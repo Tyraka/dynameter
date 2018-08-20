@@ -1,0 +1,9 @@
+* Basic load cell resistance checks
+| Resistance check | Typical 350 Ω |
+|------------------+---------------|
+| Ex+ to Ex-       | ~410Ω         |
+| S+ to S-         | 350Ω          |
+| Ex+ to S+        | ~315Ω         |
+| Ex+ to S-        | ~315Ω         |
+| Ex- to S+        | ~280Ω         |
+| Ex- to S-        | ~280Ω         |
