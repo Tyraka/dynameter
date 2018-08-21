@@ -1,14 +1,5 @@
 * About
 This is project of DIY dynameter
-* Basic load cell resistance checks
-| Resistance check | Typical 350 Ω |
-|------------------+---------------|
-| Ex+ to Ex-       | ~410Ω         |
-| S+ to S-         | 350Ω          |
-| Ex+ to S+        | ~315Ω         |
-| Ex+ to S-        | ~315Ω         |
-| Ex- to S+        | ~280Ω         |
-| Ex- to S-        | ~280Ω         |
 * Amplifier - HX711
 ** Amplifier schema
 This is the schema for all the wireing with arduino
@@ -29,5 +20,14 @@ Not important
 | E-    | red       |
 | S+    | black     |
 | S-    | green     |
+* Basic load cell resistance checks
+| Resistance check | Typical 350 Ω |
+|------------------+---------------|
+| Ex+ to Ex-       | ~410Ω         |
+| S+ to S-         | 350Ω          |
+| Ex+ to S+        | ~315Ω         |
+| Ex+ to S-        | ~315Ω         |
+| Ex- to S+        | ~280Ω         |
+| Ex- to S-        | ~280Ω         |
 
 
