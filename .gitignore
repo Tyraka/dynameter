@@ -1,0 +1,4 @@
+#ignores pdf output in repo
+*.pdf
+#ignores autosave files
+\#*
