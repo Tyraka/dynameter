@@ -9,9 +9,9 @@ You can download the necessary library here
 [[https://halckemy.s3.amazonaws.com/uploads/attachments/392655/HX711-master.zip][Download]]
 ** Arduino code
 All the code necessary for measuring the force
-***  -  calibration:
+***- calibration:
       [[file:calibration.ino][the code is here]]
-***  -  measurement:
+***- measurement:
       [[file:measurement.ino][the code is here]]
 ** Datasheet
 [[https://circuits4you.com/wp-content/uploads/2016/11/hx711_datasheet_english.pdf][link]]
