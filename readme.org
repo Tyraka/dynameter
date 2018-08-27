@@ -10,7 +10,7 @@ You can download the necessary library here
 ** Arduino code
 All the code necessary for measuring the force
 ***  -  calibration:
-      [[file:calibration.ino][the code is here
+      [[file:calibration.ino][the code is here]]
 ***  -  measurement:
       [[file:measurement.ino][the code is here]]
 ** Datasheet
