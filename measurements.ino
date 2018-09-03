@@ -8,6 +8,7 @@ HX711 scale(DOUT, CLK);
 const float calibration_factor = -96650;
 
 void setup() {
+  Serial.begin(9600);
   scale.set_scale(-96650);  //Calibration adjustment
   scale.tare();             //Reset the scale to 0  
 }
